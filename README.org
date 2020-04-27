@@ -1,0 +1,8 @@
+#+Title:  Lieber Institute for Brain Development: rstats club
+#+Author: Kynon Jade Benjamin
+* Table of Content
+
+| File                | Description                       |
+|---------------------+-----------------------------------|
+| intro2ggplot2.ipynb | Intro to ggplot2 ipython notebook |
+| intro2ggplot2.html  | Intro to ggplot2 (html)           |
