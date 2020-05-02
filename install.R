@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("plotly")
+install.packages("ggpubr")
+install.packages("repr")
+install.packages("sessioninfo")
+install.packages("IRkernel")
+IRkernel::installspec()
