@@ -1,0 +1,15 @@
+PLINK v1.90p 64-bit (10 Apr 2018)
+Options in effect:
+  --out simu
+  --simulate simulate.txt
+
+Hostname: node5
+Working directory: /ceph/users/jbenja13/tutorials/plink-tutorial
+Start time: Thu May 27 15:20:28 2021
+
+Random number seed: 1622143228
+515886 MB RAM detected; reserving 257943 MB for main workspace.
+Writing --simulate dataset to simu.bed + simu.bim + simu.fam ... done.
+Realized simulation parameters saved to simu.simfreq.
+
+End time: Thu May 27 15:20:28 2021
